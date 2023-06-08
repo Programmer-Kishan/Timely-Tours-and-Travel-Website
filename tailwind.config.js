@@ -5,6 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        "heading": ['Pacifico', 'cursive'],
+        "linkStyle": ['Roboto', 'sans-serif']
+      },
     },
   },
   plugins: [],
